@@ -1,0 +1,12 @@
+name: ML_engineering_KC
+channels:
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.12
+  - matplotlib
+  - numpy
+  - pandas
+  - loguru
+prefix: /opt/anaconda3/envs/ML_engineering_KC
